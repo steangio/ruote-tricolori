@@ -47,9 +47,9 @@ function App() {
               La caduta che ha <span className="text-red-500">spezzato</span> un sogno
             </h1>
             <p className="text-xl md:text-2xl text-gray-200 mb-8 leading-relaxed">
-              La storia di Francesco Borca, promessa del ciclismo juniores, 
+              La gara di Francesco Borca, promessa del ciclismo juniores, 
               costretto ad abbandonare il titolo italiano 2022 dopo una caduta 
-              alla Coppa Pietro Linari.
+              nella finale.
             </p>
 
           </div>
@@ -77,57 +77,15 @@ function App() {
               
               <div className="p-8">
                 <h2 className="text-3xl font-bold text-gray-900 mb-4 leading-tight">
-                  Francesco Borca: il sogno tricolore infranto
+                  Campionato Italiano Juniores: il sogno di Borca spezzato dalla caduta di gruppo <br />
+                  Cherasco (CN), 3 luglio
                 </h2>
                 <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  Una promessa del ciclismo italiano che si è vista negare la possibilità di conquistare 
-                  la maglia tricolore. La caduta alla Coppa Pietro Linari ha cambiato per sempre il destino 
-                  di un giovane talento che aveva tutto per vincere. Una storia di sport, passione e resilienza 
-                  che racconta molto più di una semplice gara.
-                </p>
-
-                <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  C'era un nome che, nell'estate 2022, riecheggiava tra i campi e le strade d'Italia: Francesco Borca. 
-                  Juniores di talento, promessa del ciclismo nazionale, quell'anno sembrava destinato a prendersi la gloria. 
-                  Il titolo italiano era lì, a portata di mano: gambe brillanti, continuità di risultati, sguardo concentrato 
-                  e una maturità che non apparteneva a un ragazzo della sua età.
-                </p>
-
-                <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  Il 18 agosto, in Toscana, la storia però cambiò direzione. Alla Coppa Pietro Linari, prova attesissima 
-                  e vetrina per i migliori Juniores del Paese, il destino decise di scrivere una pagina diversa, dolorosa e crudele.
-                </p>
-
-                <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  A una manciata di chilometri dal traguardo, in un gruppo lanciato a velocità altissime, accadde l'imprevisto. 
-                  Un contatto, un urto improvviso, la caduta che si propaga come un'onda. Biciclette che volano, corpi che rotolano 
-                  sull'asfalto. E in mezzo a quell'inferno, anche lui: Francesco Borca.
-                </p>
-
-                <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  Chi era lì ricorda il silenzio improvviso dopo lo schianto, il grido strozzato dei compagni, l'angoscia nei volti 
-                  dei tecnici. Borca rimase a terra, ferito e senza più la possibilità di rialzarsi per continuare la corsa. Non era 
-                  soltanto il ritiro da una gara: era l'addio al sogno di correre il Campionato Italiano, il sogno di vestire la maglia 
-                  tricolore che aveva rincorso con sacrifici e allenamenti infiniti.
-                </p>
-
-                <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  I giorni seguenti furono un susseguirsi di dolore, esami medici, e una lenta presa di coscienza: quella caduta lo 
-                  aveva privato della sua occasione più grande. Le cronache parlarono di un "dramma sportivo", ma per chi lo conosceva 
-                  fu molto di più: fu un colpo al cuore, la sensazione di un talento a cui la sorte aveva tolto il palcoscenico proprio 
-                  nel momento decisivo.
-                </p>
-
-                <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  Eppure, da quella tragedia rimane qualcosa di indelebile: il coraggio. Perché Francesco Borca, con le lacrime negli 
-                  occhi e le ferite nel corpo, trovò la forza di guardare avanti, di promettere a se stesso e a chi lo sosteneva che 
-                  quella caduta non sarebbe stata la fine, ma soltanto un ostacolo.
-                </p>
-
-                <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                  Il ciclismo è fatto di trionfi e cadute, di gloria e dolore. Quel 18 agosto resterà per sempre la data in cui un 
-                  ragazzo vide infrangersi il sogno tricolore. Ma resterà anche il giorno in cui Francesco Borca imparò, nel modo 
-                  più duro, che i veri campioni non si misurano solo sul podio: si misurano nella capacità di rialzarsi.
+                  Doveva essere la giornata della consacrazione per Francesco Borca, uno dei nomi più attesi al via del Campionato Italiano su strada Juniores disputato ieri a Cherasco. Invece, la corsa valida per il titolo nazionale si è trasformata in un’amara delusione a causa di una caduta di gruppo negli ultimi chilometri che ha costretto il giovane talento al ritiro. <br /><br />
+                  La prova, valevole per la categoria Juniores, si è sviluppata fin da subito su ritmi altissimi. Borca si era mantenuto nelle prime posizioni del plotone, dimostrando lucidità e gambe all’altezza della maglia tricolore. A pochi chilometri dal traguardo, però, la corsa è stata segnata da una maxi-caduta di gruppo che ha coinvolto diversi corridori. Tra i più colpiti proprio Borca, che non ha potuto riprendere la gara. <br /><br />
+                  Visibilmente scosso e dolorante, il ragazzo ha dovuto arrendersi al verdetto della strada. Una beffa per chi, fino a quel momento, aveva dato prova di essere tra i più forti in gara e pronto a giocarsi il titolo nazionale. <br /><br />
+                  “Francesco stava bene, aveva la gamba giusta. È un peccato enorme, ma queste sono le corse”, ha commentato a fine giornata il suo coach Franco Ballerini, riassumendo l’amarezza per un epilogo che nessuno avrebbe voluto. <br /><br />
+                  Il tricolore Juniores 2022 sfugge così a Borca, che però resta tra i protagonisti assoluti di questa stagione. Per lui, la consapevolezza di poter tornare a lottare presto per traguardi importanti.
                 </p>
 
               </div>
@@ -289,7 +247,12 @@ function App() {
                 <span className="text-green-500">Ruote</span>{' '}
                 <span className="text-red-500">Tricolori</span>
               </h3>
-              <p className="text-gray-400">© 2020 Ruote Tricolori. Tutti i diritti riservati.</p>
+              <p className="text-gray-400">
+                Via Torti, 10 - 16121 Genova (GE)<br />
+                Tel: +39 010 1234567<br />
+                Email: info@ruotetricolori.it<br />
+                © 2020 Ruote Tricolori. Tutti i diritti riservati.
+              </p>
             </div>
             
             <div className="flex space-x-6">
